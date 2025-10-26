@@ -9,7 +9,7 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=13%2B+Years+Experience;63%2B+Projects+Completed;20%2B+Technologies+Mastered;100%25+Client+Satisfaction)
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)]([https://your-portfolio-link.com](https://www.notion.so/Stephen-Thompson-Project-Portfolio-22e37f5817b580cdae34f0bb7c17c222)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio-link.com](https://www.notion.so/Stephen-Thompson-Project-Portfolio-22e37f5817b580cdae34f0bb7c17c222](https://www.notion.so/Stephen-Thompson-Project-Portfolio-22e37f5817b580cdae34f0bb7c17c222)
 [![Email](https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:stephenthompson002@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/stephenthompson002)
 [![GitHub](https://img.shields.io/badge/🐙_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Stephenthompson002)
