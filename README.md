@@ -20,7 +20,7 @@
 
 ## 🚀 About Me
 
-> *"Architecting the Future of Technology"*
+> *"Strategic innovator transforming ideas into scalable, AI-powered solutions"*
 
 With **13+ years** of cross-industry expertise, I lead technology teams to deliver scalable, AI-powered solutions in design, logistics, civic tech, and SaaS. As **CTO** at a U.S.-based AI design firm, I architect enterprise-grade platforms that blend creativity with cutting-edge technology.
 
@@ -35,6 +35,7 @@ With **13+ years** of cross-industry expertise, I lead technology teams to deliv
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![GPT](https://img.shields.io/badge/GPT-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-FF6B35?style=for-the-badge)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
 ### **☁️ Cloud & DevOps**
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -47,6 +48,7 @@ With **13+ years** of cross-industry expertise, I lead technology teams to deliv
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 ### **🗄️ Databases**
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -65,8 +67,6 @@ With **13+ years** of cross-industry expertise, I lead technology teams to deliv
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Stephenthompson002&theme=radical&hide_border=true)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Stephenthompson002&theme=react-dark&bg_color=000000&hide_border=true&area=true)
-
 </div>
 
 ---
@@ -75,74 +75,52 @@ With **13+ years** of cross-industry expertise, I lead technology teams to deliv
 
 ### **👑 CTO** – Visual Design Brand
 **July 2021 – Present | Atlanta, GA (Remote)**
-> Directed the development of VisualSuite, an AI-first branding automation platform. Led a cross-continental team in design, development, QA, and DevOps to deliver scalable cloud infrastructure.
+> Directed development of VisualSuite, an AI-first branding automation platform. Led cross-continental team in design, development, QA, and DevOps to deliver scalable cloud infrastructure.
 
 ### **🧠 Lead AI Developer** – Jamor Technology  
 **February 2018 – June 2021 | Remote**
-> Architected JamorBrain, a GPT-powered enterprise assistant integrated with LangChain. Deployed secure NLP pipelines, vector search capabilities, and internal ML APIs.
+> Architected JamorBrain, a GPT-powered enterprise assistant integrated with LangChain. Deployed secure NLP pipelines and AI-driven workflow automation tools.
 
 ### **⚡ Senior Software Engineer** – McCoy Development USA
 **March 2014 – January 2018 | Remote**
-> Delivered full-stack applications including RentRightNow, MealFleet, and CourtCaseTrack. Managed the full software lifecycle from planning and architecture to deployment.
-
-### **🚀 Freelance Software Consultant**
-**2010 – 2014 | Global**
-> Completed over 20 software projects for startups and SMEs, specializing in MVP development, scalable APIs, and cost-effective technology stacks.
+> Delivered full-stack applications including RentRightNow, MealFleet, and CourtCaseTrack. Managed full software lifecycle and introduced CI/CD pipelines.
 
 ---
 
 ## 🎯 Featured Projects
 
 ### **🤖 VisualSuite AI**
-AI-powered branding automation platform with generative design tools, cloud integration, and collaborative workflows for enterprise design teams.
+AI-powered branding automation platform with generative design tools, cloud integration, and collaborative workflows.
 
 `AI` `Design` `Cloud` `React` `Node.js` `AWS`
 
-[![View Code](https://img.shields.io/badge/View_Code-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Stephenthompson002/visualsuite-ai)
-
 ### **🧠 JamorBrain AI**
-Enterprise knowledge assistant leveraging GPT and LangChain for NLP, vector search, and automated insights across organizational data.
+Enterprise knowledge assistant leveraging GPT and LangChain for NLP, vector search, and automated insights.
 
-`GPT` `LangChain` `NLP` `Python` `FastAPI` `Machine Learning`
-
-[![View Code](https://img.shields.io/badge/View_Code-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Stephenthompson002/jamorbrain-ai)
+`GPT` `LangChain` `NLP` `Python` `Machine Learning`
 
 ### **📱 TrackRep**
-Mobile civic engagement app built with Flutter and Firebase for real-time reporting and community tracking, connecting citizens with their representatives.
+Mobile civic engagement app built with Flutter and Firebase for real-time community tracking.
 
-`Flutter` `Firebase` `Civic Tech` `Mobile` `Dart` `Real-time`
-
-[![View Code](https://img.shields.io/badge/View_Code-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Stephenthompson002/trackrep)
+`Flutter` `Firebase` `Civic Tech` `Mobile`
 
 ### **⚡ DevStarter**
-Modular SaaS templates with Next.js, Stripe integration, and scalable backend for rapid prototyping and deployment of production-ready applications.
+Modular SaaS templates with Next.js, Stripe integration, and scalable backend.
 
-`Next.js` `SaaS` `Stripe` `TypeScript` `Tailwind` `Modular`
+`Next.js` `SaaS` `Stripe` `TypeScript`
 
-[![View Code](https://img.shields.io/badge/View_Code-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Stephenthompson002/devstarter)
-
-**[View All 63+ Projects →](https://github.com/Stephenthompson002?tab=repositories)**
+**[View All Projects →](https://github.com/Stephenthompson002?tab=repositories)**
 
 ---
 
-## 🏆 Certifications & Achievements
+## 🏆 Certifications
 
 <div align="center">
 
-![AWS Certified](https://img.shields.io/badge/AWS_Certified_Solutions_Architect-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow_Developer_Certificate-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase_Advanced_Developer-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Flutter](https://img.shields.io/badge/Flutter_&_Dart_Mastery-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-
-</div>
-
----
-
-## 📈 Contribution Metrics
-
-<div align="center">
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Stephenthompson002&theme=radical&no-frame=true&margin-w=15&margin-h=15&row=2&column=4)
+![AWS Certified](https://img.shields.io/badge/AWS_Solutions_Architect-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow_Developer-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase_Advanced-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Flutter](https://img.shields.io/badge/Flutter_Mastery-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 </div>
 
@@ -154,18 +132,13 @@ Modular SaaS templates with Next.js, Stripe integration, and scalable backend fo
 
 **Ready to collaborate on your next innovative project?**
 
-### **💌 Contact Information**
-
 - **📧 Email**: [stephenthompson002@gmail.com](mailto:stephenthompson002@gmail.com)
 - **📱 Phone**: +234-81-694-637-98 | +44-7899-002397
-- **🌐 Portfolio**: [View My Work](https://your-portfolio-link.com)
+- **🌐 Portfolio**: [View My Work](https://www.notion.so/Stephen-Thompson-Project-Portfolio-22e37f5817b580cdae34f0bb7c17c222)
 - **💼 LinkedIn**: [Connect Professionaly](https://linkedin.com/in/your-profile)
 
-### **🚀 Quick Links**
-
 [![Schedule Meeting](https://img.shields.io/badge/Schedule_Meeting-7C3AED?style=for-the-badge&logo=google-meet&logoColor=white)](https://calendly.com/your-calendly)
-[![Download Resume](https://img.shields.io/badge/Download_Resume-00C853?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://your-portfolio-link.com/resume.pdf)
-[![View Portfolio](https://img.shields.io/badge/View_Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio-link.com)
+[![View Portfolio](https://img.shields.io/badge/View_Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.notion.so/Stephen-Thompson-Project-Portfolio-22e37f5817b580cdae34f0bb7c17c222)
 
 </div>
 
@@ -173,12 +146,8 @@ Modular SaaS templates with Next.js, Stripe integration, and scalable backend fo
 
 <div align="center">
 
-### ⚡ **"Building not just software, but experiences that transform businesses and delight users."**
+### ⚡ **"Building not just software, but experiences that transform businesses"**
 
-![Visitors](https://komarev.com/ghpvc/?username=Stephenthompson002&color=7C3AED&style=for-the-badge&label=PROFILE+VIEWS)
-
----
-
-**© 2025 Stephen Thompson. All rights reserved. Built with passion and innovation.**
+![Visitors](https://komarev.com/ghpvc/?username=Stephenthompson002&color=7C3AED&style=flat-square)
 
 </div>
